@@ -58,7 +58,7 @@
     "tar": "https://github.com/dgthanhan/node-tar/archive/6086b1ea82137c61eea4efe882dd514590e5b7a8.tar.gz",
     "tar-fs": "^1.15.2",
     "tar.gz": "^1.0.5",
-    "tmp": "0.0.31",
+    "tmp": "0.2.4",
     "unzip2": "^0.2.5"
   },
   "private": true
